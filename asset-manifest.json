@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/Movie-Web/static/css/main.e8fef038.css",
-    "main.js": "/github.io/Movie-Web/static/js/main.53e0bbf6.js",
-    "static/js/787.80ff975f.chunk.js": "/github.io/Movie-Web/static/js/787.80ff975f.chunk.js",
-    "static/media/boxicons.svg": "/github.io/Movie-Web/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
-    "static/media/footer-bg.jpg": "/github.io/Movie-Web/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
-    "static/media/boxicons.eot": "/github.io/Movie-Web/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/github.io/Movie-Web/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/github.io/Movie-Web/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/boxicons.woff2": "/github.io/Movie-Web/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "static/media/logo.jpg": "/github.io/Movie-Web/static/media/logo.36ffeb13cd5835b1b4c4.jpg",
-    "index.html": "/github.io/Movie-Web/index.html",
-    "main.e8fef038.css.map": "/github.io/Movie-Web/static/css/main.e8fef038.css.map",
-    "main.53e0bbf6.js.map": "/github.io/Movie-Web/static/js/main.53e0bbf6.js.map",
-    "787.80ff975f.chunk.js.map": "/github.io/Movie-Web/static/js/787.80ff975f.chunk.js.map"
+    "main.css": "/Movie-Web/static/css/main.b32407c8.css",
+    "main.js": "/Movie-Web/static/js/main.fd7d92a3.js",
+    "static/js/787.80ff975f.chunk.js": "/Movie-Web/static/js/787.80ff975f.chunk.js",
+    "static/media/boxicons.svg": "/Movie-Web/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
+    "static/media/footer-bg.jpg": "/Movie-Web/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/Movie-Web/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/Movie-Web/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/Movie-Web/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/Movie-Web/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/logo.jpg": "/Movie-Web/static/media/logo.36ffeb13cd5835b1b4c4.jpg",
+    "index.html": "/Movie-Web/index.html",
+    "main.b32407c8.css.map": "/Movie-Web/static/css/main.b32407c8.css.map",
+    "main.fd7d92a3.js.map": "/Movie-Web/static/js/main.fd7d92a3.js.map",
+    "787.80ff975f.chunk.js.map": "/Movie-Web/static/js/787.80ff975f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8fef038.css",
-    "static/js/main.53e0bbf6.js"
+    "static/css/main.b32407c8.css",
+    "static/js/main.fd7d92a3.js"
   ]
 }

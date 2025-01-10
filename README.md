@@ -4,4 +4,4 @@ https://github.com/facebook/create-react-app.
 
 ## Deploy
 
-https://pentattt.github.io/Movie-Web
+https://movie-app-psi-tawny.vercel.app/
